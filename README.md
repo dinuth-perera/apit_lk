@@ -3,18 +3,18 @@
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-    </li>
-    <li>
-      <a href="#installation">Getting Started</a>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
+    <ol>
+        <li>
+        <a href="#about-the-project">About The Project</a>
+        </li>
+        <li>
+        <a href="#installation">Getting Started</a>
+        </li>
+        <li><a href="#usage">Usage</a></li>
+        <li><a href="#roadmap">Roadmap</a></li>
+        <li><a href="#contact">Contact</a></li>
+        <li><a href="#acknowledgments">Acknowledgments</a></li>
+    </ol>
 </details>
 
 
@@ -74,7 +74,6 @@ Install via PIP
 
 Dinuth Perera - +94776793824 - pm@dinuth.me
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

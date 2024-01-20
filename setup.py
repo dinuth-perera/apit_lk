@@ -1,9 +1,11 @@
 # setup.py
 from setuptools import setup, find_packages
 
-VERSION = "0.1"
+VERSION = "0.1.1"
 DESCRIPTION = "Sri lanka APIT Calculation python library"
-LONG_DESCRIPTION = "A package that makes it easy to calaclute Sri Lankan Advance Personal Income Tax (APIT Tax)"
+
+with open("pypi_redme.md", "r") as fh:
+    LONG_DESCRIPTION = fh.read()
 
 setup(
     name="apit_lk",
