@@ -9,7 +9,7 @@ class TestCalc(unittest.TestCase):
         self.assertEqual(calculate_apit(150000), 3500)
         self.assertEqual(calculate_apit(250000), 21000)
         self.assertEqual(calculate_apit(350000), 52500)
-        self.assertEqual(calculate_apit(400000), 88500)
+        self.assertEqual(calculate_apit(400000), 70500)
         self.assertEqual(calculate_apit(500000), 106500)
 
 if __name__ == '__main__':
