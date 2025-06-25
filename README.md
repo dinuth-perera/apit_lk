@@ -33,7 +33,7 @@ The Sri Lankan Advance Personal Income Tax (APIT) Calculator is a Python package
 
 Install via PIP
    ```sh
-   pip install apit-lk==0.1.1
+   pip install apit-lk==0.1.2
    ```
 
 

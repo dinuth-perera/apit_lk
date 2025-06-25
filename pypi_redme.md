@@ -1,7 +1,7 @@
 ## Installation
 
 ```
-pip install apit
+pip install apit-lk==0.1.2
 ```
 
 ## Usage
