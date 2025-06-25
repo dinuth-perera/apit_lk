@@ -1,7 +1,7 @@
 # setup.py
 from setuptools import setup, find_packages
 
-VERSION = "0.1.1"
+VERSION = "0.1.2"
 DESCRIPTION = "Sri lanka APIT Calculation python library"
 
 with open("pypi_redme.md", "r") as fh:
